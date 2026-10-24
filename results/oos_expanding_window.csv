@@ -1,0 +1,5 @@
+model,MSFE,R²_OOS vs historical mean (%),R²_OOS vs Model A (%),"vs Model A, supply chain crisis (%)","vs Model A, other months (%)",Clark-West p vs Model A
+no change,0.00741,4.2,0.8,-20.7,11.8,
+historical mean,0.00773,0.0,-3.6,-17.0,3.3,
+Model A,0.00746,3.5,0.0,0.0,0.0,
+Model B,0.00825,-6.7,-10.6,-34.6,1.7,0.75
