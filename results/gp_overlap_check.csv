@@ -1,0 +1,5 @@
+model,training,in-sample R² (%),signal share (%),R²_OOS vs historical mean (%),R²_OOS vs GP A (%)
+GP A,all months,23.0,58.0,-20.4,0.0
+GP A,non-overlapping,22.8,19.7,-24.6,0.0
+GP B,all months,45.1,64.3,-72.3,-43.2
+GP B,non-overlapping,70.4,60.8,-41.4,-13.5

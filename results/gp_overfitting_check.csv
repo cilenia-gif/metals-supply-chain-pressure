@@ -1,0 +1,11 @@
+,A: without GSCPI,B: with GSCPI
+linear: in-sample R² (%),11.8,11.9
+linear: R²_OOS (%),3.7,-6.3
+GP: in-sample R² (%),23.0,45.1
+GP: R²_OOS (%),-20.4,-72.3
+GP: signal share (%),58.0,64.3
+length scale: index_worldbank_past_3m,3.81,1.70
+length scale: demand_world_12m_lag,1.32,1.44
+length scale: oil_3m_lag,6.77,3.07
+length scale: usd_3m_lag,23.24,2.62
+length scale: gscpi_lag,,0.89
