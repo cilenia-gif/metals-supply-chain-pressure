@@ -54,7 +54,7 @@ Full results: `paper.pdf`. Recording: [`recording.mp4` or link].
 
        jupyter nbconvert --to notebook --execute --inplace code/01_extract_data.ipynb code/02_prepare_data.ipynb code/03_model.ipynb code/04_figures.ipynb
 
-**Run time:** about 2–3 minutes in total with most of it stemming from notebook 03, because of the Gaussian process.
+**Run time:** about 6–7 minutes in total, most of it in notebook 03 (Gaussian process and its robustness checks).
 
 **Output:** the processed data in `data/processed/`, the result tables and forecasts in `results/`, and all figures in `figures/`. The numbers in the paper correspond to these outputs.
 
